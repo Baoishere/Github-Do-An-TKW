@@ -18,6 +18,34 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+.slider-text {
+    text-align: center;
+    padding-top: 300px;
+}
+
+.slider-text .sli-title {
+    font-size: 70px;
+    color:#fffc9c;
+    font-style:italic;
+}
+
+.slider-text .sli-content {
+    font-size: 80px;
+    font-style:italic;
+    font-family: 'Allura';
+    line-height: 20px;
+    position: relative;
+    color:#c4fb72;
+    text-shadow: 2px 2px 5px #877a02;
+}
+
+.sli-btn {
+    font-size: 3em;
+    padding-top: 50px;
+    
+}
+
 ul {
     list-style: none;
     margin-left: 0;
